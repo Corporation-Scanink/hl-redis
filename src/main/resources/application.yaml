@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: hl-redis
+  redis:
+    uri: ${redis_uri}
+
+springdoc:
+  swagger-ui:
+    path: /
+    operationsSorter: method

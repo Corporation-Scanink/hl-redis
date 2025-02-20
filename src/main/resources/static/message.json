@@ -1,0 +1,56 @@
+{
+  "numeroPoste": "35460",
+  "event": {
+    "date": "2024-09-10 14:26",
+    "tier":{
+      "name":"be35460bp01",
+      "description":"",
+      "os":"b",
+      "environnement":"e",
+      "installation_type":"3",
+      "territory":1,
+      "subTerritory":3,
+      "sequential_number":99,
+      "tier":"ids",
+      "increment":"01",
+      "inventaire": {
+        "created":1723055182.305883,
+        "description":"",
+        "data_type":"logiciels",
+        "content": [
+          [ {
+              "fieldname": "DisplayName",
+              "value": "7-Zip 19.00 (x64)"
+            },
+            {
+              "fieldname": "DisplayVersion",
+              "value":"19.00"
+            },
+            {
+              "fieldname": "Publisher",
+              "value":"Igor Pavlov"
+            }
+          ],
+          [
+            {
+              "fieldname": "DisplayName",
+              "value": "ABB CET for IEC61850 OPC Server"
+            },
+            {
+              "fieldname": "DisplayVersion",
+              "value":"10.0.0.46"
+            },
+            {
+              "fieldname": "Publisher",
+              "value":"ABB Asea Brown Boveri Ltd."
+            },
+            {
+              "fieldname": "InstallDate",
+              "value":"20190709"
+            }
+          ]
+        ]
+      }
+    }
+  }
+}
